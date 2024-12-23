@@ -1,7 +1,7 @@
 # Crack Detection in Concrete using Deep Learning
 This repository contains an implementation of a deep learning model to detect cracks in concrete surfaces using image processing and TensorFlow/Keras. The project classifies images as either POSITIVE (cracks detected) or NEGATIVE (no cracks).
 
-# Table of Contents
+Table of Contents
 Introduction
 Dataset
 Requirements
